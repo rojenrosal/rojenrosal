@@ -5,7 +5,7 @@ I'm a Software Developer from the Philippines! 🥳
 Here you'll see some projects that I use to learn and harness my skills in Software Development 👾
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apirojenrosalanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apirojenrosal=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rojenrosal/rojenrosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
