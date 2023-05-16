@@ -1,5 +1,11 @@
-### Hi there 👋
+### What's up guys welcome to my Github Repo 🥳
 
+I'm a Software Developer from the Philippines! 🥳
+
+Here you'll see some projects that I use to learn and harness my skills in Software Development 👾
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rojenrosal=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rojenrosal/rojenrosal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
