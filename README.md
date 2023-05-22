@@ -1,4 +1,4 @@
-![image](https://github.com/rojenrosal/rojenrosal/assets/56790894/b6f96b4d-8f11-418e-a452-65bd318915e3)
+![image](https://github.com/rojenrosal/rojenrosal/assets/56790894/b3a81726-962a-4ced-ba3d-5efde358c7fe)
 
 
 ### What's up guys welcome to my Github Repo 🥳
