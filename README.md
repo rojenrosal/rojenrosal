@@ -8,7 +8,7 @@ I'm a Software Developer from the Philippines! 🥳
 Here you'll see some projects that I use to learn and harness my skills in Software Development 👾
 
 
-### 🤝 Visit my Webiste and Connect with me:
+### 🤝 Visit my Portfolio and Connect with me:
 <a href="https://rojen.dev"><img align="left" src="https://raw.githubusercontent.com/rojenrosal/rojenrosal/1adc94fdc7c1a4b3a63922b2e5eebd89308b1e02/logo-no-background.svg" alt="rojendev" width="21px"/></a>
 
 
