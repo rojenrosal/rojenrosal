@@ -12,7 +12,7 @@ Here you'll see some projects that I use to learn and harness my skills in Softw
 
 <a href="https://www.linkedin.com/in/rojenrosal/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="rojen | LinkedIn" width="21px"/></a>
 
-<a href="https://rojen.dev"><img align="left" src="[https://raw.githubusercontent.com/rojenrosal/rojenrosal/main/r-website-favicon-color.png]" alt="rojen | rojendev" width="21px"/></a>
+<a href="https://rojen.dev"><img align="left" src="[https://raw.githubusercontent.com/rojenrosal/rojenrosal/1adc94fdc7c1a4b3a63922b2e5eebd89308b1e02/logo-no-background.svg]" alt="rojen | rojendev" width="21px"/></a>
 
 <br>
 
