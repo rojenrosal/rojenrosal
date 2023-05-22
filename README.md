@@ -1,3 +1,6 @@
+![image](https://github.com/rojenrosal/rojenrosal/assets/56790894/0d67fd60-1d85-4d80-bc28-a4bbfe487a5c)
+
+
 ### What's up guys welcome to my Github Repo 🥳
 
 I'm a Software Developer from the Philippines! 🥳
